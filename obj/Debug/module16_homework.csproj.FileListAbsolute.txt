@@ -1,0 +1,7 @@
+c:\users\windows10\source\repos\module16_homework\module16_homework\bin\Debug\module16_homework.exe.config
+c:\users\windows10\source\repos\module16_homework\module16_homework\bin\Debug\module16_homework.exe
+c:\users\windows10\source\repos\module16_homework\module16_homework\bin\Debug\module16_homework.pdb
+c:\users\windows10\source\repos\module16_homework\module16_homework\obj\Debug\module16_homework.csprojAssemblyReference.cache
+c:\users\windows10\source\repos\module16_homework\module16_homework\obj\Debug\module16_homework.csproj.CoreCompileInputs.cache
+c:\users\windows10\source\repos\module16_homework\module16_homework\obj\Debug\module16_homework.exe
+c:\users\windows10\source\repos\module16_homework\module16_homework\obj\Debug\module16_homework.pdb
